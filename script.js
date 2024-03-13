@@ -8,6 +8,8 @@ console.log(secondNum);
 console.log(thirdNum);
 console.log(vault);
 
+document.getElementById("demo").innerHTML = "Hello JavaScript version" + firstNum;
+
 //will create a const myGreeting = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
 //will create 3 const using addition minus and multiplcation, for example const addNum = 3 + 4; const minusNum = 3 - 4; and const multiplyNum = 3 * 8;
 //will create script.js and will add all my const inside the script.js
