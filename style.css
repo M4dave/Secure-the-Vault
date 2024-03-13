@@ -1,7 +1,7 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font: 1em;
-   /*  background-image: url("images/javascript.jpeg"); */
+    background-image: url("images/javascript.jpeg");
     background-color: #cccccc;
     height: 500px;
     background-position: center;
@@ -9,5 +9,5 @@ body{
     background-size: cover;
     position: relative;
     text-align: center;
-    color: hsl(0, 23%, 62%);
+    color: hsl(240, 20%, 89%);
 }
