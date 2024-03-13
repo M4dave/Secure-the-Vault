@@ -11,9 +11,9 @@ const thirdNum = 1 * 0;
 // created a const for string
 const myGreeting = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"; 
 // created a console log to print out my const
+console.log(myGreeting);
 console.log(firstNum);
 console.log(secondNum);
 console.log(thirdNum);
-console.log(myGreeting);
 // created a getElementById innerHTML to call all my const to display it on my HTML
 document.getElementById("myGreeting").innerHTML = myGreeting + " " + firstNum + secondNum + thirdNum;
