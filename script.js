@@ -2,7 +2,6 @@ const firstNum = 3 + 8;
 const secondNum = 15 - 1;
 const thirdNum = 4 * 5;
 const vault = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:";
-
 console.log(firstNum);
 console.log(secondNum);
 console.log(thirdNum);
