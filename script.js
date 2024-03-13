@@ -6,9 +6,12 @@ const myGreeting = "You have received this message because you have been chosen 
 console.log(firstNum);
 console.log(secondNum);
 console.log(thirdNum);
-console.log(vault);
+console.log(myGreeting);
 
-document.getElementById("demo").innerHTML = "Hello JavaScript version" + firstNum;
+document.getElementById("myGreeting").innerHTML = " " + myGreeting;
+document.getElementById("firstCode").innerHTML = "The first Code is " + firstNum;
+document.getElementById("secondCode").innerHTML = "The first Code is " + secondNum;
+document.getElementById("thirdCode").innerHTML = "The first Code is " + thirdNum;
 
 //will create a const myGreeting = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
 //will create 3 const using addition minus and multiplcation, for example const addNum = 3 + 4; const minusNum = 3 - 4; and const multiplyNum = 3 * 8;
