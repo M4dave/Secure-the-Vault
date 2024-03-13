@@ -1,6 +1,6 @@
-const firstNum = 3 + 8; // created a const for my addition
-const secondNum = 15 - 1; // created a const for my minus
-const thirdNum = 4 * 5; // created a const for my multiplication
+const firstNum = 3 + 8; // created a const for addition
+const secondNum = 15 - 1; // created a const for minus
+const thirdNum = 4 * 5; // created a const for multiplication
 // created a const for string
 const myGreeting = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"; 
 // created a console log to print out my const
