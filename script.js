@@ -18,5 +18,5 @@ console.log(secondNum);
 console.log(thirdNum);
 // created a getElementById innerHTML to call all my const to display it on my HTML
 document.getElementById("myGreeting").innerHTML = myGreeting;
-
+// aler message to provide the secret combination
 alert(firstNum + "-" + secondNum + "-" + thirdNum);
