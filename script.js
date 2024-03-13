@@ -1,13 +1,13 @@
 //will create a const myGreeting = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
-//will create 3 const using the math floor math random
+//will create 3 const and to utilize addition subraction and mutiplication
 //will create script.js and will add all my const inside the script.js
 //will create getElementById innerHTML to call all my const to display it on my HTML also in console
  
  
- // created a 3 const and Math random to display different number
-const firstNum = Math.floor(Math.random()*100); 
-const secondNum = Math.floor(Math.random()*100);
-const thirdNum = Math.floor(Math.random()*100);
+ // created a 3 const and to utilize addition subraction and mutiplication
+const firstNum = 3 + 1; 
+const secondNum = 4 - 2;
+const thirdNum = 1 * 0;
 // created a const for string
 const myGreeting = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"; 
 // created a console log to print out my const
