@@ -1,7 +1,7 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font: 1em;
-    background-image: url("images/javascript.jpeg");
+    /* background-image: url("images/javascript.jpeg"); */
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
