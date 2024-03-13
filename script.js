@@ -8,7 +8,7 @@ console.log(firstNum);
 console.log(secondNum);
 console.log(thirdNum);
 console.log(myGreeting);
-// created a getElementById innerHTML to call all my const and display it on my HTML
+// created a getElementById innerHTML to call all my const to display it on my HTML
 document.getElementById("myGreeting").innerHTML = " " + myGreeting;
 document.getElementById("firstCode").innerHTML = "The first Code is " + firstNum;
 document.getElementById("secondCode").innerHTML = "The first Code is " + secondNum;
