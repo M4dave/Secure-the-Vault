@@ -1,6 +1,7 @@
-const firstNum = 3 + 8; // created a const for addition
-const secondNum = 15 - 1; // created a const for minus
-const thirdNum = 4 * 5; // created a const for multiplication
+ // created a 3 const and Math random to display different number
+const firstNum = Math. floor(Math.random()*10); 
+const secondNum = Math. floor(Math.random()*10);
+const thirdNum = Math. floor(Math.random()*10);
 // created a const for string
 const myGreeting = "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"; 
 // created a console log to print out my const
