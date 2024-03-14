@@ -19,4 +19,4 @@ console.log(thirdNum);
 // created a getElementById innerHTML to call all my const to display it on my HTML
 document.getElementById("myGreeting").innerHTML = myGreeting;
 // set a timeout function to delay the alert
-setTimeout(function() {alert(firstNum + "-" + secondNum + "-" + thirdNum);},1550);
+setTimeout(function() {alert(firstNum + "-" + secondNum + "-" + thirdNum);},1250);
