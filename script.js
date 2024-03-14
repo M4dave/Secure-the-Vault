@@ -3,6 +3,7 @@
 //will create 3 const and to utilize addition subraction and mutiplication
 //will create script.js in HTMl a file -  will add all my const inside the script.js
 //will create getElementById innerHTML to call all my const to display it on my HTML also in console
+//will create .html .css
  
  
  // created a 3 const and to utilize addition subraction and mutiplication
